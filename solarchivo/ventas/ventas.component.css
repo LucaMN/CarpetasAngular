@@ -1,0 +1,14 @@
+/* src/app/ventas/ventas.component.css */
+.NF2 {
+    width: 50px;
+  }
+  
+  #emptyTable th, #emptyTable td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  #emptyTable th {
+    background-color: lightgray;
+  }
+  
